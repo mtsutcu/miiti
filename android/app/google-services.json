@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "301600995623",
+    "project_id": "miiti-414ac",
+    "storage_bucket": "miiti-414ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301600995623:android:cac827afddadfeaed51102",
+        "android_client_info": {
+          "package_name": "com.example.miiti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301600995623-e478a2argp3m2q4mn545lg7452iulm3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI5tOjj_EoNxw8qbp7wx5T-Ox9JsZFIB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301600995623-e478a2argp3m2q4mn545lg7452iulm3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
